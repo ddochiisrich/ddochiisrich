@@ -32,7 +32,7 @@
 ### IDEs
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white"/> <img src="https://img.shields.io/badge/Intellij-000000?style=flat&logo=intellijidea&logoColor=white"/>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
-
+<hr>
 ## 📮 Contacts
 
 [![Velog Badge](http://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@ddochiisrich/)](https://velog.io/@ddochiisrich/)
