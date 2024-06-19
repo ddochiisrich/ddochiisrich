@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=270&section=header&text=HyeongCheol%20Lee&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Beginner%20Developer&descAlignY=51&descAlign=83&fontAlign=70)
 
-[![DDOCHI's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddochiisrich&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ddochiisrich)](https://solved.ac/ddochiisrich/)
+[![DDOCHI's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddochiisrich&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ddochiisrich)](https://solved.ac/ddochiisrich/)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fddochiisrich&count_bg=%230C1844&title_bg=%23C80036&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
