@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HyeongCheol%20Lee&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Beginner%20Developer&descAlignY=51&descAlign=62&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HyeongCheol%20Lee&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Beginner%20Developer&descAlignY=51&descAlign=80&fontAlign=70)
 
 [![DDOCHI's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddochiisrich&show_icons=true&theme=테마a&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
