@@ -1,5 +1,3 @@
-## Hi 👋 I'M    LEE HYEONG CHEOL 😋
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=LEE%20HYEONG%20CHEOL&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Developer%20Aspirant&descAlignY=51&descAlign=62)
 
 
