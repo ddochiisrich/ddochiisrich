@@ -1,6 +1,6 @@
 ## Hi 👋 I'M    LEE HYEONG CHEOL 😋
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=#0C1844&height=300&section=header&text=가나다라마바사%20render&fontSize=90)
 
 
 [![DDOCHI's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddochiisrich&show_icons=true&theme=테마a&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
