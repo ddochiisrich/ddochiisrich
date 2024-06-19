@@ -5,6 +5,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fddochiisrich&count_bg=%230C1844&title_bg=%23C80036&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
 
-![JAVA](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=JAVA&logoColor=white)
-
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Java&logoColor=white"/>
