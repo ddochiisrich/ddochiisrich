@@ -35,6 +35,6 @@
 
 ## 📮 Contacts
 
-[![Velog Badge](http://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&link=https://velog.io/@ddochiisrich/)](https://velog.io/@ddochiisrich/)
+[![Velog Badge](http://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@ddochiisrich/)](https://velog.io/@ddochiisrich/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ddochiisrich@gmail.com)](mailto:ddochiisrich@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:azddochi@naver.com)](mailto:azddochi@naver.com)
