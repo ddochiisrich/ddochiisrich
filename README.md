@@ -6,7 +6,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fddochiisrich&count_bg=%230C1844&title_bg=%23C80036&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
 
-## 🛠️ Skills
+# 🛠️ Skills
 
 ### Programming Languages
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Java Script-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
@@ -36,7 +36,7 @@
 
 <hr>
 
-## 📮 Contacts
+# 📮 Contacts
 
 [![Velog Badge](http://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@ddochiisrich/)](https://velog.io/@ddochiisrich/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ddochiisrich@gmail.com)](mailto:ddochiisrich@gmail.com)
